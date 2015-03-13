@@ -1,0 +1,40 @@
+{
+  "ProjectName": "Japanese Learning App",
+  "ProjectGuid": "391b0b8e-d1c7-431e-8e33-2f472755388d",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.JapaneseLearningApp",
+  "DisplayName": "Japanese Learning App",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{7363c07e-fff6-44e3-908b-7bf93f0be166}",
+  "WP8ProductID": "{4f5b402d-4184-419c-972e-4ef7d1891fca}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.JapaneseLearningApp",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
